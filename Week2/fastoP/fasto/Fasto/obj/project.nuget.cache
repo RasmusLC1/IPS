@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "eIcanfwwTXcXdjUyCYfE1mpCroWqJ84MGbNITnlOLz4COuRw9yQl/yBLzRZlQHCfEW7/6P6RQeavBFXQwALvkw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\smoot\\Documents\\IPS\\Week2\\fastoP\\fasto\\fasto\\Fasto.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\smoot\\.nuget\\packages\\fsharp.core\\7.0.300\\fsharp.core.7.0.300.nupkg.sha512",
+    "C:\\Users\\smoot\\.nuget\\packages\\fslexyacc\\10.2.0\\fslexyacc.10.2.0.nupkg.sha512",
+    "C:\\Users\\smoot\\.nuget\\packages\\fslexyacc.runtime\\10.2.0\\fslexyacc.runtime.10.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

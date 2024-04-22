@@ -1,0 +1,54 @@
+c:\Users\smoot\Documents\Implementation of programming language\obj\Debug\net6.0\Implementation of programming language.AssemblyInfoInputs.cache
+c:\Users\smoot\Documents\Implementation of programming language\obj\Debug\net6.0\Implementation of programming language.AssemblyInfo.fs
+C:\Users\smoot\Documents\Implementation of programming language\bin\Debug\net6.0\Implementation of programming language.exe
+C:\Users\smoot\Documents\Implementation of programming language\bin\Debug\net6.0\Implementation of programming language.deps.json
+C:\Users\smoot\Documents\Implementation of programming language\bin\Debug\net6.0\Implementation of programming language.runtimeconfig.json
+C:\Users\smoot\Documents\Implementation of programming language\bin\Debug\net6.0\Implementation of programming language.dll
+C:\Users\smoot\Documents\Implementation of programming language\bin\Debug\net6.0\Implementation of programming language.pdb
+C:\Users\smoot\Documents\Implementation of programming language\bin\Debug\net6.0\FSharp.Core.dll
+C:\Users\smoot\Documents\Implementation of programming language\bin\Debug\net6.0\cs\FSharp.Core.resources.dll
+C:\Users\smoot\Documents\Implementation of programming language\bin\Debug\net6.0\de\FSharp.Core.resources.dll
+C:\Users\smoot\Documents\Implementation of programming language\bin\Debug\net6.0\es\FSharp.Core.resources.dll
+C:\Users\smoot\Documents\Implementation of programming language\bin\Debug\net6.0\fr\FSharp.Core.resources.dll
+C:\Users\smoot\Documents\Implementation of programming language\bin\Debug\net6.0\it\FSharp.Core.resources.dll
+C:\Users\smoot\Documents\Implementation of programming language\bin\Debug\net6.0\ja\FSharp.Core.resources.dll
+C:\Users\smoot\Documents\Implementation of programming language\bin\Debug\net6.0\ko\FSharp.Core.resources.dll
+C:\Users\smoot\Documents\Implementation of programming language\bin\Debug\net6.0\pl\FSharp.Core.resources.dll
+C:\Users\smoot\Documents\Implementation of programming language\bin\Debug\net6.0\pt-BR\FSharp.Core.resources.dll
+C:\Users\smoot\Documents\Implementation of programming language\bin\Debug\net6.0\ru\FSharp.Core.resources.dll
+C:\Users\smoot\Documents\Implementation of programming language\bin\Debug\net6.0\tr\FSharp.Core.resources.dll
+C:\Users\smoot\Documents\Implementation of programming language\bin\Debug\net6.0\zh-Hans\FSharp.Core.resources.dll
+C:\Users\smoot\Documents\Implementation of programming language\bin\Debug\net6.0\zh-Hant\FSharp.Core.resources.dll
+C:\Users\smoot\Documents\Implementation of programming language\obj\Debug\net6.0\Implementation of programming language.fsproj.AssemblyReference.cache
+C:\Users\smoot\Documents\Implementation of programming language\obj\Debug\net6.0\Implementation of programming language.fsproj.CoreCompileInputs.cache
+C:\Users\smoot\Documents\Implementation of programming language\obj\Debug\net6.0\Implementation of programming language.fsproj.CopyComplete
+C:\Users\smoot\Documents\Implementation of programming language\obj\Debug\net6.0\Implementation of programming language.dll
+C:\Users\smoot\Documents\Implementation of programming language\obj\Debug\net6.0\Implementation of programming language.pdb
+C:\Users\smoot\Documents\Implementation of programming language\obj\Debug\net6.0\Implementation of programming language.genruntimeconfig.cache
+c:\Users\smoot\Documents\Implementation of programming language\Test\obj\Debug\net6.0\Implementation of programming language.AssemblyInfoInputs.cache
+c:\Users\smoot\Documents\Implementation of programming language\Test\obj\Debug\net6.0\Implementation of programming language.AssemblyInfo.fs
+C:\Users\smoot\Documents\Implementation of programming language\test\bin\Debug\net6.0\Implementation of programming language.exe
+C:\Users\smoot\Documents\Implementation of programming language\test\bin\Debug\net6.0\Implementation of programming language.deps.json
+C:\Users\smoot\Documents\Implementation of programming language\test\bin\Debug\net6.0\Implementation of programming language.runtimeconfig.json
+C:\Users\smoot\Documents\Implementation of programming language\test\bin\Debug\net6.0\Implementation of programming language.dll
+C:\Users\smoot\Documents\Implementation of programming language\test\bin\Debug\net6.0\Implementation of programming language.pdb
+C:\Users\smoot\Documents\Implementation of programming language\test\bin\Debug\net6.0\FSharp.Core.dll
+C:\Users\smoot\Documents\Implementation of programming language\test\bin\Debug\net6.0\cs\FSharp.Core.resources.dll
+C:\Users\smoot\Documents\Implementation of programming language\test\bin\Debug\net6.0\de\FSharp.Core.resources.dll
+C:\Users\smoot\Documents\Implementation of programming language\test\bin\Debug\net6.0\es\FSharp.Core.resources.dll
+C:\Users\smoot\Documents\Implementation of programming language\test\bin\Debug\net6.0\fr\FSharp.Core.resources.dll
+C:\Users\smoot\Documents\Implementation of programming language\test\bin\Debug\net6.0\it\FSharp.Core.resources.dll
+C:\Users\smoot\Documents\Implementation of programming language\test\bin\Debug\net6.0\ja\FSharp.Core.resources.dll
+C:\Users\smoot\Documents\Implementation of programming language\test\bin\Debug\net6.0\ko\FSharp.Core.resources.dll
+C:\Users\smoot\Documents\Implementation of programming language\test\bin\Debug\net6.0\pl\FSharp.Core.resources.dll
+C:\Users\smoot\Documents\Implementation of programming language\test\bin\Debug\net6.0\pt-BR\FSharp.Core.resources.dll
+C:\Users\smoot\Documents\Implementation of programming language\test\bin\Debug\net6.0\ru\FSharp.Core.resources.dll
+C:\Users\smoot\Documents\Implementation of programming language\test\bin\Debug\net6.0\tr\FSharp.Core.resources.dll
+C:\Users\smoot\Documents\Implementation of programming language\test\bin\Debug\net6.0\zh-Hans\FSharp.Core.resources.dll
+C:\Users\smoot\Documents\Implementation of programming language\test\bin\Debug\net6.0\zh-Hant\FSharp.Core.resources.dll
+C:\Users\smoot\Documents\Implementation of programming language\test\obj\Debug\net6.0\Implementation of programming language.fsproj.AssemblyReference.cache
+C:\Users\smoot\Documents\Implementation of programming language\test\obj\Debug\net6.0\Implementation of programming language.fsproj.CoreCompileInputs.cache
+C:\Users\smoot\Documents\Implementation of programming language\test\obj\Debug\net6.0\Implementation of programming language.fsproj.CopyComplete
+C:\Users\smoot\Documents\Implementation of programming language\test\obj\Debug\net6.0\Implementation of programming language.dll
+C:\Users\smoot\Documents\Implementation of programming language\test\obj\Debug\net6.0\Implementation of programming language.pdb
+C:\Users\smoot\Documents\Implementation of programming language\test\obj\Debug\net6.0\Implementation of programming language.genruntimeconfig.cache

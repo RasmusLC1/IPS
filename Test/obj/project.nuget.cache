@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BauUsp75Mj9LJX+QbqLnw2C2Ci2eEFKv+WoAeiK4rEAAcWW2vXTvGX8zKOgsi5BwkeLd4QWGIJGEIm6pbw9B+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\smoot\\Documents\\Implementation of programming language\\test\\Implementation of programming language.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\smoot\\.nuget\\packages\\fsharp.core\\6.0.6\\fsharp.core.6.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

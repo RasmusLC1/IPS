@@ -1,0 +1,49 @@
+{
+module Lexer
+
+open System
+open FSharp.Text.Lexing
+open System.Text
+
+
+let keyword (s : string) =
+        match s with
+        | "let" -> Parser.LET
+        | "in" -> Parser.IN
+        | "to" -> Parser.TO
+        | "of" -> Parser.OF
+        | "prod" -> Parser.PROD
+        | "sum" -> Parser.SUM
+        | "max" -> Parser.MAX
+        | "argmax" -> Parser.ARGMAX
+        | _ -> Parser.VAR s
+}
+
+rule Token = parse
+    (* Skip whitespace. *)
+    [' ' '\t' '\r' '\n' ]+
+    { Token lexbuf }
+
+    (* Integers. *)
+  | '0' | ['1'-'9']['0'-'9']*
+    { Parser.INT (int (Encoding.UTF8.GetString lexbuf.Lexeme)) }
+
+    (* Symbols *)
+  | '(' { Parser.LPAR }
+  | ')' { Parser.RPAR }
+
+    (*Variable names*)
+  | ['a'-'z''A'-'Z'] + (['a'-'z''A'-'Z''0'-'9''_'])*? { keyword (Encoding.UTF8.GetString lexbuf.Lexeme) }
+
+    (*Operations*)
+  | '+' {Parser.PLUS}
+  | '-' {Parser.MINUS}
+  | '*' {Parser.TIMES}
+  | '=' {Parser.EQ}
+
+
+    (* Special end of file symbol. *)
+  | eof { Parser.EOF }
+
+    (* We don't understand anything else. *)
+  | _   { failwith "lexer errorTEST2" }

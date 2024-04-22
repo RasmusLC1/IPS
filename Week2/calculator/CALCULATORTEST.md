@@ -1,0 +1,65 @@
+CONSTANT TEST
+4+5 = OPERATE (BPLUS, CONSTANT (INT 4), CONSTANT (INT 5))
+4*5 = OPERATE (BTIMES, CONSTANT (INT 4), CONSTANT (INT 5))
+a*5 = OPERATE (BTIMES, VARIABLE "a", CONSTANT (INT 5))
+5-4 = OPERATE (BMINUS, CONSTANT (INT 5), CONSTANT (INT 4))
+0-4 + 2 = (BPLUS, OPERATE (BMINUS, CONSTANT (INT 0), CONSTANT (INT 4)), CONSTANT (INT 2))
+(0-5)*(0-5) = (BTIMES, OPERATE (BMINUS, CONSTANT (INT 0), CONSTANT (INT 5)),
+   OPERATE (BMINUS, CONSTANT (INT 0), CONSTANT (INT 5)))
+
+LET test
+let a = 5 in a+5 = LET_IN ("a", CONSTANT (INT 5), OPERATE (BPLUS, VARIABLE "a", CONSTANT (INT 5)))
+let a = 5 in let c = 4 in a+c = ("a", CONSTANT (INT 5),
+   LET_IN ("c", CONSTANT (INT 4), OPERATE (BPLUS, VARIABLE "a", VARIABLE "c")))
+let 2a = 5 in a+5 = Parser Error, expected result
+let _a = 5 in a+5 = Lexer error
+let a2 = 5 in a+5 = LET_IN ("a2", CONSTANT (INT 5), OPERATE (BPLUS, VARIABLE "a", CONSTANT (INT 5)))
+let a_test = 5 in a+5 = LET_IN
+  ("a_test", CONSTANT (INT 5), OPERATE (BPLUS, VARIABLE "a", CONSTANT (INT 5)))
+
+SUM test
+sum x = 1 to 4 of x*x = 
+    OVER
+    (RSUM, "x", CONSTANT (INT 1), CONSTANT (INT 4),
+   OPERATE (BTIMES, VARIABLE "x", VARIABLE "x"))
+sum x = (0-5) to 10 of x*x = 
+    OVER
+    (RSUM, "x", OPERATE (BMINUS, CONSTANT (INT 0), CONSTANT (INT 5)),
+    CONSTANT (INT 10), OPERATE (BTIMES, VARIABLE "x", VARIABLE "x"))
+
+
+PROD test
+prod x = 1 to 5 of x*x =
+    OVER
+  (RPROD, "x", CONSTANT (INT 1), CONSTANT (INT 5),
+   OPERATE (BTIMES, VARIABLE "x", VARIABLE "x"))
+
+prod x = (0-5) to 0-1 of x*x =
+    OVER
+  (RPROD, "x", OPERATE (BMINUS, CONSTANT (INT 0), CONSTANT (INT 5)),
+   OPERATE (BMINUS, CONSTANT (INT 0), CONSTANT (INT 1)),
+   OPERATE (BTIMES, VARIABLE "x", VARIABLE "x"))
+
+MAX test
+max x = 0 to 10 of 5 * x - x * x =
+    OVER
+  (RMAX, "x", CONSTANT (INT 0), CONSTANT (INT 10),
+   OPERATE
+     (BMINUS, OPERATE (BTIMES, CONSTANT (INT 5), VARIABLE "x"),
+      OPERATE (BTIMES, VARIABLE "x", VARIABLE "x")))
+
+max x = 0 to 10 of x =
+    OVER (RMAX, "x", CONSTANT (INT 0), CONSTANT (INT 10), VARIABLE "x")
+
+
+ARGMAX test
+argmax x = 0 to 10 of 5 * x - x * x =
+    OVER
+  (RARGMAX, "x", CONSTANT (INT 0), CONSTANT (INT 10),
+   OPERATE
+     (BMINUS, OPERATE (BTIMES, CONSTANT (INT 5), VARIABLE "x"),
+      OPERATE (BTIMES, VARIABLE "x", VARIABLE "x")))
+
+argmax x = 0 to 10 of x =
+    OVER (RARGMAX, "x", CONSTANT (INT 0), CONSTANT (INT 10), VARIABLE "x")
+

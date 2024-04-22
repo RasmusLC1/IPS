@@ -1,0 +1,31 @@
+fun int mul(int x, int y) = 
+    if 0 < y then 
+        x + mul(x, y - 1) //Positive
+    else if y < 0 then 
+        0 - x + mul(x, y + 1) //Negative
+    else 
+        0
+
+
+
+fun int main () =
+    let n = read(int) in
+    if n < 1 then
+        let error = write("Incorrect Input!") in
+        0
+    else
+        let arr = iota(n) in
+        let arrRead = map(fn int (int i) => read(int), arr) in
+
+        let difs = map(fn int (int i) =>//using map to repeat the function ioata(n) times
+            if i == 0 then 
+                arrRead[0] //First element exception
+            else 
+                arrRead[i]-arrRead[i-1], arr) in //Current element - previous one done n times to find difs
+        
+        let sum = reduce(
+                fn int (int x, int y) => x + y, //plus
+                0,
+                map (fn int (int i) => mul(i, i), difs) //Square
+                ) in 
+        write(sum)

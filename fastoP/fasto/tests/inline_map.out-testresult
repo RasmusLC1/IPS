@@ -1,0 +1,3 @@
+Error in C:\Users\smoot\Documents\IPS\fastoP\fasto\bin\..\tests\inline_map.asm line 26: Runtime exception at 0x00400040: address out of range 0x00000064
+
+Simulation terminated due to errors.

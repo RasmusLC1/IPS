@@ -1,0 +1,95 @@
+C:\Users\smoot\Documents\IPS\fasto\Fasto\bin\Debug\net7.0\Fasto.exe
+C:\Users\smoot\Documents\IPS\fasto\Fasto\bin\Debug\net7.0\Fasto.deps.json
+C:\Users\smoot\Documents\IPS\fasto\Fasto\bin\Debug\net7.0\Fasto.runtimeconfig.json
+C:\Users\smoot\Documents\IPS\fasto\Fasto\bin\Debug\net7.0\Fasto.dll
+C:\Users\smoot\Documents\IPS\fasto\Fasto\bin\Debug\net7.0\Fasto.pdb
+C:\Users\smoot\Documents\IPS\fasto\Fasto\bin\Debug\net7.0\FSharp.Core.dll
+C:\Users\smoot\Documents\IPS\fasto\Fasto\bin\Debug\net7.0\FsLexYacc.Runtime.dll
+C:\Users\smoot\Documents\IPS\fasto\Fasto\bin\Debug\net7.0\cs\FSharp.Core.resources.dll
+C:\Users\smoot\Documents\IPS\fasto\Fasto\bin\Debug\net7.0\de\FSharp.Core.resources.dll
+C:\Users\smoot\Documents\IPS\fasto\Fasto\bin\Debug\net7.0\es\FSharp.Core.resources.dll
+C:\Users\smoot\Documents\IPS\fasto\Fasto\bin\Debug\net7.0\fr\FSharp.Core.resources.dll
+C:\Users\smoot\Documents\IPS\fasto\Fasto\bin\Debug\net7.0\it\FSharp.Core.resources.dll
+C:\Users\smoot\Documents\IPS\fasto\Fasto\bin\Debug\net7.0\ja\FSharp.Core.resources.dll
+C:\Users\smoot\Documents\IPS\fasto\Fasto\bin\Debug\net7.0\ko\FSharp.Core.resources.dll
+C:\Users\smoot\Documents\IPS\fasto\Fasto\bin\Debug\net7.0\pl\FSharp.Core.resources.dll
+C:\Users\smoot\Documents\IPS\fasto\Fasto\bin\Debug\net7.0\pt-BR\FSharp.Core.resources.dll
+C:\Users\smoot\Documents\IPS\fasto\Fasto\bin\Debug\net7.0\ru\FSharp.Core.resources.dll
+C:\Users\smoot\Documents\IPS\fasto\Fasto\bin\Debug\net7.0\tr\FSharp.Core.resources.dll
+C:\Users\smoot\Documents\IPS\fasto\Fasto\bin\Debug\net7.0\zh-Hans\FSharp.Core.resources.dll
+C:\Users\smoot\Documents\IPS\fasto\Fasto\bin\Debug\net7.0\zh-Hant\FSharp.Core.resources.dll
+C:\Users\smoot\Documents\IPS\fasto\Fasto\obj\Debug\net7.0\Fasto.fsproj.AssemblyReference.cache
+C:\Users\smoot\Documents\IPS\fasto\Fasto\obj\Debug\net7.0\Fasto.AssemblyInfoInputs.cache
+C:\Users\smoot\Documents\IPS\fasto\Fasto\obj\Debug\net7.0\Fasto.AssemblyInfo.fs
+C:\Users\smoot\Documents\IPS\fasto\Fasto\obj\Debug\net7.0\Fasto.fsproj.CoreCompileInputs.cache
+C:\Users\smoot\Documents\IPS\fasto\Fasto\obj\Debug\net7.0\Fasto.fsproj.CopyComplete
+C:\Users\smoot\Documents\IPS\fasto\Fasto\obj\Debug\net7.0\Fasto.dll
+C:\Users\smoot\Documents\IPS\fasto\Fasto\obj\Debug\net7.0\refint\Fasto.dll
+C:\Users\smoot\Documents\IPS\fasto\Fasto\obj\Debug\net7.0\Fasto.pdb
+C:\Users\smoot\Documents\IPS\fasto\Fasto\obj\Debug\net7.0\Fasto.genruntimeconfig.cache
+C:\Users\smoot\Documents\IPS\fasto\Fasto\obj\Debug\net7.0\ref\Fasto.dll
+c:\Users\smoot\Documents\IPS\Week1\fastoP\fasto\Fasto\obj\Debug\net7.0\Fasto.AssemblyInfoInputs.cache
+c:\Users\smoot\Documents\IPS\Week1\fastoP\fasto\Fasto\obj\Debug\net7.0\Fasto.AssemblyInfo.fs
+c:\Users\smoot\Documents\IPS\Week1\fastoP\fasto\Fasto\obj\Debug\net7.0\Fasto.dll
+c:\Users\smoot\Documents\IPS\Week1\fastoP\fasto\Fasto\obj\Debug\net7.0\refint\Fasto.dll
+c:\Users\smoot\Documents\IPS\Week1\fastoP\fasto\Fasto\obj\Debug\net7.0\Fasto.pdb
+c:\Users\smoot\Documents\IPS\Week2\fastoP\fasto\Fasto\obj\Debug\net7.0\Fasto.AssemblyInfoInputs.cache
+c:\Users\smoot\Documents\IPS\Week2\fastoP\fasto\Fasto\obj\Debug\net7.0\Fasto.AssemblyInfo.fs
+C:\Users\smoot\Documents\IPS\Week2\fastop\fasto\fasto\bin\Debug\net7.0\Fasto.exe
+C:\Users\smoot\Documents\IPS\Week2\fastop\fasto\fasto\bin\Debug\net7.0\Fasto.deps.json
+C:\Users\smoot\Documents\IPS\Week2\fastop\fasto\fasto\bin\Debug\net7.0\Fasto.runtimeconfig.json
+C:\Users\smoot\Documents\IPS\Week2\fastop\fasto\fasto\bin\Debug\net7.0\Fasto.dll
+C:\Users\smoot\Documents\IPS\Week2\fastop\fasto\fasto\bin\Debug\net7.0\Fasto.pdb
+C:\Users\smoot\Documents\IPS\Week2\fastop\fasto\fasto\bin\Debug\net7.0\FSharp.Core.dll
+C:\Users\smoot\Documents\IPS\Week2\fastop\fasto\fasto\bin\Debug\net7.0\FsLexYacc.Runtime.dll
+C:\Users\smoot\Documents\IPS\Week2\fastop\fasto\fasto\bin\Debug\net7.0\cs\FSharp.Core.resources.dll
+C:\Users\smoot\Documents\IPS\Week2\fastop\fasto\fasto\bin\Debug\net7.0\de\FSharp.Core.resources.dll
+C:\Users\smoot\Documents\IPS\Week2\fastop\fasto\fasto\bin\Debug\net7.0\es\FSharp.Core.resources.dll
+C:\Users\smoot\Documents\IPS\Week2\fastop\fasto\fasto\bin\Debug\net7.0\fr\FSharp.Core.resources.dll
+C:\Users\smoot\Documents\IPS\Week2\fastop\fasto\fasto\bin\Debug\net7.0\it\FSharp.Core.resources.dll
+C:\Users\smoot\Documents\IPS\Week2\fastop\fasto\fasto\bin\Debug\net7.0\ja\FSharp.Core.resources.dll
+C:\Users\smoot\Documents\IPS\Week2\fastop\fasto\fasto\bin\Debug\net7.0\ko\FSharp.Core.resources.dll
+C:\Users\smoot\Documents\IPS\Week2\fastop\fasto\fasto\bin\Debug\net7.0\pl\FSharp.Core.resources.dll
+C:\Users\smoot\Documents\IPS\Week2\fastop\fasto\fasto\bin\Debug\net7.0\pt-BR\FSharp.Core.resources.dll
+C:\Users\smoot\Documents\IPS\Week2\fastop\fasto\fasto\bin\Debug\net7.0\ru\FSharp.Core.resources.dll
+C:\Users\smoot\Documents\IPS\Week2\fastop\fasto\fasto\bin\Debug\net7.0\tr\FSharp.Core.resources.dll
+C:\Users\smoot\Documents\IPS\Week2\fastop\fasto\fasto\bin\Debug\net7.0\zh-Hans\FSharp.Core.resources.dll
+C:\Users\smoot\Documents\IPS\Week2\fastop\fasto\fasto\bin\Debug\net7.0\zh-Hant\FSharp.Core.resources.dll
+C:\Users\smoot\Documents\IPS\Week2\fastop\fasto\fasto\obj\Debug\net7.0\Fasto.fsproj.AssemblyReference.cache
+C:\Users\smoot\Documents\IPS\Week2\fastop\fasto\fasto\obj\Debug\net7.0\Fasto.fsproj.CoreCompileInputs.cache
+C:\Users\smoot\Documents\IPS\Week2\fastop\fasto\fasto\obj\Debug\net7.0\Fasto.fsproj.CopyComplete
+C:\Users\smoot\Documents\IPS\Week2\fastop\fasto\fasto\obj\Debug\net7.0\Fasto.dll
+C:\Users\smoot\Documents\IPS\Week2\fastop\fasto\fasto\obj\Debug\net7.0\refint\Fasto.dll
+C:\Users\smoot\Documents\IPS\Week2\fastop\fasto\fasto\obj\Debug\net7.0\Fasto.pdb
+C:\Users\smoot\Documents\IPS\Week2\fastop\fasto\fasto\obj\Debug\net7.0\Fasto.genruntimeconfig.cache
+C:\Users\smoot\Documents\IPS\Week2\fastop\fasto\fasto\obj\Debug\net7.0\ref\Fasto.dll
+C:\Users\rala\OneDrive - languagewire.com\studie\IPS\fastop\fasto\bin\Debug\net7.0\Fasto.exe
+C:\Users\rala\OneDrive - languagewire.com\studie\IPS\fastop\fasto\bin\Debug\net7.0\Fasto.deps.json
+C:\Users\rala\OneDrive - languagewire.com\studie\IPS\fastop\fasto\bin\Debug\net7.0\Fasto.runtimeconfig.json
+C:\Users\rala\OneDrive - languagewire.com\studie\IPS\fastop\fasto\bin\Debug\net7.0\Fasto.dll
+C:\Users\rala\OneDrive - languagewire.com\studie\IPS\fastop\fasto\bin\Debug\net7.0\Fasto.pdb
+C:\Users\rala\OneDrive - languagewire.com\studie\IPS\fastop\fasto\bin\Debug\net7.0\FSharp.Core.dll
+C:\Users\rala\OneDrive - languagewire.com\studie\IPS\fastop\fasto\bin\Debug\net7.0\FsLexYacc.Runtime.dll
+C:\Users\rala\OneDrive - languagewire.com\studie\IPS\fastop\fasto\bin\Debug\net7.0\cs\FSharp.Core.resources.dll
+C:\Users\rala\OneDrive - languagewire.com\studie\IPS\fastop\fasto\bin\Debug\net7.0\de\FSharp.Core.resources.dll
+C:\Users\rala\OneDrive - languagewire.com\studie\IPS\fastop\fasto\bin\Debug\net7.0\es\FSharp.Core.resources.dll
+C:\Users\rala\OneDrive - languagewire.com\studie\IPS\fastop\fasto\bin\Debug\net7.0\fr\FSharp.Core.resources.dll
+C:\Users\rala\OneDrive - languagewire.com\studie\IPS\fastop\fasto\bin\Debug\net7.0\it\FSharp.Core.resources.dll
+C:\Users\rala\OneDrive - languagewire.com\studie\IPS\fastop\fasto\bin\Debug\net7.0\ja\FSharp.Core.resources.dll
+C:\Users\rala\OneDrive - languagewire.com\studie\IPS\fastop\fasto\bin\Debug\net7.0\ko\FSharp.Core.resources.dll
+C:\Users\rala\OneDrive - languagewire.com\studie\IPS\fastop\fasto\bin\Debug\net7.0\pl\FSharp.Core.resources.dll
+C:\Users\rala\OneDrive - languagewire.com\studie\IPS\fastop\fasto\bin\Debug\net7.0\pt-BR\FSharp.Core.resources.dll
+C:\Users\rala\OneDrive - languagewire.com\studie\IPS\fastop\fasto\bin\Debug\net7.0\ru\FSharp.Core.resources.dll
+C:\Users\rala\OneDrive - languagewire.com\studie\IPS\fastop\fasto\bin\Debug\net7.0\tr\FSharp.Core.resources.dll
+C:\Users\rala\OneDrive - languagewire.com\studie\IPS\fastop\fasto\bin\Debug\net7.0\zh-Hans\FSharp.Core.resources.dll
+C:\Users\rala\OneDrive - languagewire.com\studie\IPS\fastop\fasto\bin\Debug\net7.0\zh-Hant\FSharp.Core.resources.dll
+C:\Users\rala\OneDrive - languagewire.com\studie\IPS\fastop\fasto\obj\Debug\net7.0\Fasto.fsproj.AssemblyReference.cache
+C:\Users\rala\OneDrive - languagewire.com\studie\IPS\fastop\fasto\obj\Debug\net7.0\Fasto.AssemblyInfoInputs.cache
+C:\Users\rala\OneDrive - languagewire.com\studie\IPS\fastop\fasto\obj\Debug\net7.0\Fasto.AssemblyInfo.fs
+C:\Users\rala\OneDrive - languagewire.com\studie\IPS\fastop\fasto\obj\Debug\net7.0\Fasto.fsproj.CoreCompileInputs.cache
+C:\Users\rala\OneDrive - languagewire.com\studie\IPS\fastop\fasto\obj\Debug\net7.0\Fasto.fsproj.CopyComplete
+C:\Users\rala\OneDrive - languagewire.com\studie\IPS\fastop\fasto\obj\Debug\net7.0\Fasto.dll
+C:\Users\rala\OneDrive - languagewire.com\studie\IPS\fastop\fasto\obj\Debug\net7.0\refint\Fasto.dll
+C:\Users\rala\OneDrive - languagewire.com\studie\IPS\fastop\fasto\obj\Debug\net7.0\Fasto.pdb
+C:\Users\rala\OneDrive - languagewire.com\studie\IPS\fastop\fasto\obj\Debug\net7.0\Fasto.genruntimeconfig.cache
+C:\Users\rala\OneDrive - languagewire.com\studie\IPS\fastop\fasto\obj\Debug\net7.0\ref\Fasto.dll

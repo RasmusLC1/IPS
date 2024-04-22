@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "OurPXVngoKSDGRlz0EOnYSL1RzsfHnS2bzfuAQ7Yf2fQ9XByx2r21DY74yP5SskkCLs0MNtO3OXLlLf5289uMA==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\smoot\\Documents\\IPS\\Week2\\calculator\\Calculator.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\smoot\\.nuget\\packages\\fsharp.core\\7.0.200\\fsharp.core.7.0.200.nupkg.sha512",
+    "C:\\Users\\smoot\\.nuget\\packages\\fslexyacc\\10.2.0\\fslexyacc.10.2.0.nupkg.sha512",
+    "C:\\Users\\smoot\\.nuget\\packages\\fslexyacc.runtime\\10.2.0\\fslexyacc.runtime.10.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
